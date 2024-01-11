@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulQoyum
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning frontend basic skills
-- 💞️ I’m looking to collaborate on frontend development 
+- 👀 I’m interested in Cyber security 
+- 🌱 I’m currently learning Cybersecurity skills
+- 💞️ I’m looking to collaborate on cyber security 
 - 📫 How to reach me gmail (abdulqoyumayinde0113@gmail.com) /whatsApp(+2348033395440)
 
 <!---
